@@ -1,0 +1,6 @@
+El usuario entra a la plataforma.
+Crea una petición.
+Escribe cuál es la petición.
+El sistema guarda la petición del usuario.
+Los usuarios apoyan su petición.
+El sistema crea un PDF de su petición.

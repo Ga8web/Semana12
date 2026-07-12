@@ -1,0 +1,5 @@
+Evento: La petición alcanza 8 apoyos.
+
+Mensaje: "La petición ha recibido 8 apoyos."
+
+Información que no debe enviarse: No se deben enviar números de teléfono, cédulas, direcciones ni ningún dato personal que pueda afectar o poner en riesgo a los usuarios.

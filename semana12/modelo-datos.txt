@@ -1,0 +1,15 @@
+Entidad: Petición
+- id
+- titulo
+- descripcion
+- fecha
+
+Esta entidad sirve para almacenar la información de cada petición creada por un usuario.
+
+Entidad: Apoyo
+- id
+- peticion_id
+- nombre
+- fecha
+
+Esta entidad sirve para registrar los apoyos que recibe cada petición por parte de los usuarios.
